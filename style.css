@@ -149,7 +149,7 @@ nav{
     display: flex;  
 }
 .first-col{
-    flex-basis: 30%;
+    flex-basis: 25%;
     border-right:  0.5px solid #e7e7e7;
 }
 .top-box{
